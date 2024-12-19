@@ -1,0 +1,13 @@
+Start
+Step 1 - Get the number n 
+Step 2 - Initialize RESULT to 1 and i = 1
+Step 3 -  Check if n is equal to 0.     
+          If n == 0 THEN
+          Print "The factorial of 0 is 1"
+          Return 1 
+          Else continue to the next step.
+Step 4 -  For each number i from 1 to n, repeat
+          For i = 1 to n:
+          Multiply RESULT by i (RESULT = RESULT * i).
+Step 5 -  After the loop finishes, print the value of RESULT as the factorial of n.
+End

@@ -1,0 +1,10 @@
+Start
+Step 1 - Read string s.
+Step 2 - Set left = 0 and right = length of s - 1.
+Step 3 - while left < right:
+         If s[left] is not equal to s[right]:
+         Print "Not a palindrome"
+         End the function
+Step 4 - Increment left by 1 and decrement right by 1 and repeat step 3
+Step 5 - Print "Palindrome" if no mismatches were found
+End

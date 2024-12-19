@@ -1,0 +1,8 @@
+Start
+Step 1 - Get the String s
+Step 2 - Set Initial Count = 0
+Step 3 - For i in s check if i in ('a','e','i','o','u')
+         count ++
+         
+Step 4 - Print Count
+End

@@ -1,0 +1,7 @@
+Start
+Step 1 - Set MAX to array[0]
+Step 2 - For each element in the array starting from the first index
+         If the current element is greater than MAX
+         Set MAX to the current element
+Step 3 - Return MAX
+End
